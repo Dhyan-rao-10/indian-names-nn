@@ -1,0 +1,4 @@
+Libraries that are needed for this project 
+-torch
+-matplotlib
+-jupyter
