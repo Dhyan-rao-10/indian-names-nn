@@ -7,7 +7,7 @@ To train a Nueral Network to generate new Indian names by learning character pat
 
 
 ##Progress
--[ ] Data set collected and cleaned
+-[✓] Data set collected and cleaned
 -[ ] Bigram model implemented
 -[ ] MLP model implemented
 -[ ] Regional conditioning added
